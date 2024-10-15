@@ -42,5 +42,6 @@ La generación automatizada de notas periodísticas con OpenAI presenta varias v
 ## Requiere:
 
 pip install openai==0.28
+
 pip install ipywidgets
 
