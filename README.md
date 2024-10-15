@@ -40,7 +40,7 @@ La generación automatizada de notas periodísticas con OpenAI presenta varias v
 •	Dependencia Tecnológica: La dependencia excesiva de la IA puede llevar a una falta de diversidad en la cobertura informativa.
 
 
-###Requiere:
+##Requiere:
 pip install openai==0.28
 pip install ipywidgets
 
