@@ -39,7 +39,7 @@ La generación automatizada de notas periodísticas con OpenAI presenta varias v
 •	Ética: Es necesario abordar las implicaciones éticas de utilizar IA en el periodismo, como la transparencia sobre el uso de herramientas automatizadas y la posible sustitución de trabajos humanos.
 •	Dependencia Tecnológica: La dependencia excesiva de la IA puede llevar a una falta de diversidad en la cobertura informativa.
 
-
+## Requiere:
 ##Requiere:
 pip install openai==0.28
 pip install ipywidgets
